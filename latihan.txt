@@ -1,1 +1,2 @@
 ini latihan git
+ini data yang di tambahh ke git
